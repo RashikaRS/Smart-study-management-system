@@ -21,4 +21,4 @@ Application screenshots are included in this repository.
 
 Author
 
-Rashika S
+Rashika R S
